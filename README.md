@@ -1,6 +1,6 @@
 # Global-AI-Hub-Bootcamp
 Hi! There's our python bootcamp project.
-Contributors of project:
--Ali Eren
--Furkan Yılmaz
--Şükriye Öztürk
+\nContributors of project:
+\n-Ali Eren
+\n-Furkan Yılmaz
+\n-Şükriye Öztürk
